@@ -5184,10 +5184,10 @@ format-string-by-pattern@^1.2.1:
   resolved "https://registry.yarnpkg.com/format-string-by-pattern/-/format-string-by-pattern-1.2.1.tgz#ecaf437a0a504e986510dde6ae6438998fd26387"
   integrity sha512-x7JY+q8XvBmHCf4ZSQiiG+8fmC02oiei1JoAsUcdHcy8Kn6LwaE1KUlQ8ph3fNnIcWY65B3aVuKArdbAEQxpLg==
 
-formik@^2.2.6:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/formik/-/formik-2.2.6.tgz#378a4bafe4b95caf6acf6db01f81f3fe5147559d"
-  integrity sha512-Kxk2zQRafy56zhLmrzcbryUpMBvT0tal5IvcifK5+4YNGelKsnrODFJ0sZQRMQboblWNym4lAW3bt+tf2vApSA==
+formik@^3.0.0-next.8:
+  version "3.0.0-next.8"
+  resolved "https://registry.yarnpkg.com/formik/-/formik-3.0.0-next.8.tgz#9109b05ff90501cd66bed618078d08ad12027c23"
+  integrity sha512-WzurHnoiLnk50TmtlsAOvSastQeYvgTEKeRQBUFAKXrS78msy1lqpxkUNNKiQ3jE+9WuuZ+KDpXIqz5w2hD9Og==
   dependencies:
     deepmerge "^2.1.1"
     hoist-non-react-statics "^3.3.0"
@@ -5196,6 +5196,7 @@ formik@^2.2.6:
     react-fast-compare "^2.0.1"
     tiny-warning "^1.0.2"
     tslib "^1.10.0"
+    use-context-selector "^1.2.10"
 
 forwarded@~0.1.2:
   version "0.1.2"
@@ -11042,6 +11043,11 @@ url@^0.11.0:
   dependencies:
     punycode "1.3.2"
     querystring "0.2.0"
+
+use-context-selector@^1.2.10:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/use-context-selector/-/use-context-selector-1.3.4.tgz#918dde11a8303485e9046c95713936424f04da8e"
+  integrity sha512-grPPE71izEavAv39WF1r1QPZ6Ya41rnjTeLQGMP5yz3VShGQKMDThKXMRUdrDE71pOoaD4pvhFTsDbTjBqxdWg==
 
 use@^3.1.0:
   version "3.1.1"
